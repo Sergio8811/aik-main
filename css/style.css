@@ -560,12 +560,12 @@ body {
         z-index: 5;
         height: 100vh;
         padding-top: 200px;
-        /* background-image: url(../images/slide-1.jpg);
+        background-image: url(../images/photo.jpg);
         background-position-x: 0;
         background-position-y: 0;
-        background-size: 100% auto;
-        background-repeat: no-repeat; */
-        background-color: #151515;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        /* background-color: #151515; */
         flex-direction: column;
         top: 0;
         right: 0;
